@@ -1,0 +1,7 @@
+main: me.jwhz.witchshop.WitchShop
+depends: [Vault]
+author: JakeDev
+version: 0.1
+name: WitchShop
+commands:
+  vendor:
